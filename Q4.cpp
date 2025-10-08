@@ -1,0 +1,1 @@
+/* Write a function that finds that first element that repeats itself in an array. */

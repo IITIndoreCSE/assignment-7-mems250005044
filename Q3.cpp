@@ -1,0 +1,2 @@
+/* Write a function that takes an array an a parameter and modifies every element by multiplying it with the current values of elements before and after it. The element before the first element is considered to be a 1; 
+  similarly the element after the last element is also considered a 1. The first is first multiplied, the second element is subsequently multiplied by the new value of the first element and the third element, and so on. */
